@@ -6,7 +6,20 @@ tags: [ISO 27001, Information Security, Cloud Security, PCI DSS, NIST, Data Priv
 toc: true
 comments: true
 ---
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+
+<div style="flex: 2;">
+
 Trong thời đại số hóa mạnh mẽ, bảo mật thông tin không còn là lựa chọn mà đã trở thành yêu cầu bắt buộc đối với mọi tổ chức, bất kể quy mô hay lĩnh vực hoạt động. Từ dữ liệu cá nhân, bí mật kinh doanh đến các hệ thống công nghệ phức tạp – tất cả đều cần được bảo vệ trước các rủi ro ngày càng tinh vi. Để xây dựng và duy trì một hệ thống bảo mật hiệu quả, các tổ chức thường dựa vào các **tiêu chuẩn bảo mật thông tin** được quốc tế công nhận. Trong bài viết này, chúng ta sẽ cùng điểm qua các tiêu chuẩn phổ biến nhất hiện nay.
+
+</div>
+
+<div style="flex: 1; min-width: 250px;">
+<img src="/assets/img/information-security-standards.png" alt="Tổng quan tiêu chuẩn bảo mật thông tin" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
+<p style="font-size: 0.85em; color: gray;">Hình minh họa tổng quan các tiêu chuẩn bảo mật thông tin</p>
+</div>
+
+</div>
 
 ## 1. ISO/IEC 27001 – Hệ thống quản lý an toàn thông tin (ISMS)
 
